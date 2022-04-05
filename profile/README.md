@@ -1,6 +1,6 @@
  # Welcome to the i3-MARKET Backplane
  
-![i3-market-logo](./i3-market-logo.png)
+![i3-market-logo](https://github.com/i3-Market-V2-Public-Repository/.github/blob/main/profile/i3-market-logo.png)
 
 ### A Free Open Source Software Platform for SMEs, Developers and Large Industries Building/Enhancing their Data Marketplaces.
 ### www.open-source.i3-market.eu
@@ -15,7 +15,7 @@ The i3-MARKET project is a consortium of 14 partners from large industries and s
 
 The i3-MARKET project has built a blueprint open source software architecture called “i3-MARKET Backplane” (www.open-source.i3-market.eu) that addresses the growing demand for connecting multiple data spaces and marketplaces in a secure and federated manner. i3-MARKET consortium is contributing with the developed software tools to build the European Data Market Economy by innovating marketplace platforms, demonstrating with three industrial reference implementations (pilots) that a decentralised data economy and more fair growth is possible.
 
-![i3-market-architecture](./i3-market-architecture.png)
+![i3-market-architecture](https://github.com/i3-Market-V2-Public-Repository/.github/blob/main/profile/i3-market-architecture.png)
 
 
 ## i3-MARKET Backplane Architecture
