@@ -4,6 +4,10 @@
 
 ### Free* Open Source Software Tools for SMEs, Developers and Large Industries Building/Enhancing their Data Marketplaces.
 ### www.open-source.i3-market.eu
+### https://www.i3-market.eu/
+### https://i3-market.gitlab.io/code/backplane/backplane-api-gateway/backplane-api-specification/index.html
+
+#### We Present here the Release 3 of the i3-Market Backplane Solutions
 
 #### Intelligent, Interoperable, Integrative and deployable open source MARKETplace backplane Tools for easy deployment of DaaS and a platform to support online data marketplaces.
 
@@ -15,7 +19,7 @@ The i3-MARKET project is a consortium of diverse 14 partners, from large industr
 
 The i3-MARKET project addresses the challenge of being integrative following design methods used in industry and OSS implementation best practices, interoperable by using semantic models that defines a common conceptual framework and information model that enables cross domain data exchange and sharing, intelligent from the perspective of smart contracts generated automatically and associating those financial operations into a set of software tools that facilitate that data assets can be commercialised via intra-domain or cross-domain almost transparently in a secure and protected digital market environment.
 
-The i3-MARKET consortium is happy to present its software in the form of a backplane with a set of software support tools and as a solution addressing the challenge of enabling the coexistence of dataspaces with marketplaces for enlarging the European Digital Market Ecosystem. The i3-MARKET project has built a blueprint open source software architecture called “i3-MARKET Backplane” (www.open-source.i3-market.eu) that addresses the growing demand for connecting multiple data spaces and marketplaces in a secure and federated manner. i3-MARKET consortium is contributing with the developed software tools to build the European Data Market Economy by innovating marketplace platforms, demonstrating with three industrial reference implementations (pilots) that a decentralised data economy and more fair growth is possible.
+The i3-MARKET consortium is happy to present its software in the form of a backplane with a set of software support tools and as a solution addressing the challenge of enabling the coexistence of dataspaces with marketplaces for enlarging the European Digital Market Ecosystem. The i3-MARKET project has built a blueprint open source software architecture called “i3-MARKET Backplane” (www.open-source.i3-market.eu, https://www.i3-market.eu/, https://i3-market.gitlab.io/code/backplane/backplane-api-gateway/backplane-api-specification/index.html) that addresses the growing demand for connecting multiple data spaces and marketplaces in a secure and federated manner. i3-MARKET consortium is contributing with the developed software tools to build the European Data Market Economy by innovating marketplace platforms, demonstrating with three industrial reference implementations (pilots) that a decentralised data economy and more fair growth is possible.
 
 ![i3-market-architecture](https://github.com/i3-Market-V2-Public-Repository/.github/blob/main/profile/i3-market-architecture.png)
 
@@ -37,3 +41,5 @@ The Data Storage system is the building block in charge of storing common data s
 The Semantic Engine System is the building block in charge of providing the needed semantic data models for make possible the consumers and applications understand the meaning of the data exchanged between different stakeholders. Apart from that, the semantic engine will allow the participants to taking advantage of this semantic data models by means of providing a metadata management in charge of registering offering and performing queries for discovery purposes. 
 
 i3-MARKET Architecture Level 2 or backplane operations allows the subsystems of i3-MARKET to be isolated and not exposed publicly, so that they can only be accessed by the Backplane or other Level 1 subsystems. External connections are all handled by the Backplane Level 1, making connection security and encryption simpler and thus services are optimised and executed easily and more straightforward. The design of the Backplane Level 2 functionalities makes that data spaces and marketplaces can use of backplane functionalities more easily, scalable and replicable, making the addition of new backplane instances transparent for both the subsystems and the clients.
+
+(The i3-Market Backplane solutions are also available as open-source in GitLab at https://gitlab.com/i3-market-v3-public-repository)
